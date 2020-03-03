@@ -1,0 +1,40 @@
+C:\Users\dani\Google Drive\Riinvest\Siguria e te dhenave\2019\Detyrat\KlientiRii\KlientiRii\bin\Debug\KlientiRii.exe.config
+C:\Users\dani\Google Drive\Riinvest\Siguria e te dhenave\2019\Detyrat\KlientiRii\KlientiRii\bin\Debug\KlientiRii.exe
+C:\Users\dani\Google Drive\Riinvest\Siguria e te dhenave\2019\Detyrat\KlientiRii\KlientiRii\bin\Debug\KlientiRii.pdb
+C:\Users\dani\Google Drive\Riinvest\Siguria e te dhenave\2019\Detyrat\KlientiRii\KlientiRii\obj\Debug\KlientiRii.Form1.resources
+C:\Users\dani\Google Drive\Riinvest\Siguria e te dhenave\2019\Detyrat\KlientiRii\KlientiRii\obj\Debug\KlientiRii.Properties.Resources.resources
+C:\Users\dani\Google Drive\Riinvest\Siguria e te dhenave\2019\Detyrat\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csproj.GenerateResource.cache
+C:\Users\dani\Google Drive\Riinvest\Siguria e te dhenave\2019\Detyrat\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csproj.CoreCompileInputs.cache
+C:\Users\dani\Google Drive\Riinvest\Siguria e te dhenave\2019\Detyrat\KlientiRii\KlientiRii\obj\Debug\KlientiRii.exe
+C:\Users\dani\Google Drive\Riinvest\Siguria e te dhenave\2019\Detyrat\KlientiRii\KlientiRii\obj\Debug\KlientiRii.pdb
+C:\Users\dani\Google Drive\Riinvest\Siguria e te dhenave\2019\Detyrat\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\KlientiRii\KlientiRii\bin\Debug\KlientiRii.exe.config
+C:\Users\Lenovo\Desktop\KlientiRii\KlientiRii\bin\Debug\KlientiRii.exe
+C:\Users\Lenovo\Desktop\KlientiRii\KlientiRii\bin\Debug\KlientiRii.pdb
+C:\Users\Lenovo\Desktop\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\KlientiRii\KlientiRii\obj\Debug\KlientiRii.Form1.resources
+C:\Users\Lenovo\Desktop\KlientiRii\KlientiRii\obj\Debug\KlientiRii.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KlientiRii\KlientiRii\obj\Debug\KlientiRii.exe
+C:\Users\Lenovo\Desktop\KlientiRii\KlientiRii\obj\Debug\KlientiRii.pdb
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\KlientiRii\KlientiRii\bin\Debug\KlientiRii.exe.config
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\KlientiRii\KlientiRii\bin\Debug\KlientiRii.exe
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\KlientiRii\KlientiRii\bin\Debug\KlientiRii.pdb
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.Form1.resources
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.exe
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.pdb
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\KlientiRii\KlientiRii\bin\Debug\KlientiRii.exe.config
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\KlientiRii\KlientiRii\bin\Debug\KlientiRii.exe
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\KlientiRii\KlientiRii\bin\Debug\KlientiRii.pdb
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.Form1.resources
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.exe
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\KlientiRii\KlientiRii\obj\Debug\KlientiRii.pdb
